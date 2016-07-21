@@ -1,36 +1,21 @@
 # knightly
 
-FIXME: description
+A choose your own adventure in Clojure.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Not yet done.
 
 ## Usage
 
-FIXME: explanation
+Play can start with:
 
-    $ java -jar knightly-0.1.0-standalone.jar [args]
+    $ java -jar knightly-0.1.0-standalone.jar
 
-## Options
+or:
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein run
 
 ## License
 
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2016 James Milne, see [LICENSE.md](LICENSE.md)
