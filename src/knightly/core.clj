@@ -1,5 +1,6 @@
 (ns knightly.core
-  (:gen-class))
+  (:gen-class)
+  (:require [knightly.enemies]))
 
 (comment "
   Knightly
@@ -28,7 +29,7 @@
   * Fast-travel mechanic
 
 ")
-X
+
 (def player
   ; Health, Magic
   (list 100 100))
