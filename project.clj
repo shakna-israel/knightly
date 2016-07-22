@@ -1,6 +1,6 @@
 (defproject knightly "0.1.0-SNAPSHOT"
   :description "A choose your own adventure."
-  :url "https://gitlab.com/shakna-israel/knightly"
+  :url "https://github.com/shakna-israel/knightly"
   :license {:name "MIT License"
             :url "https://mit-license.org/"}
   :dependencies [[org.clojure/clojure "1.8.0"]]
